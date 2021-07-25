@@ -1,4 +1,4 @@
-fileName = './od.txt'
+fileName = './RR.txt'
 with open(fileName) as f:
     lines = f.readlines()
 
